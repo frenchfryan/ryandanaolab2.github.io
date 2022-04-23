@@ -7,9 +7,9 @@ In this lab, I will make use of the geo-tagged twitter data by collected them fr
 
 **Maps:**
 
-![map 1](C:\Users\14159\ryandanaolab2.github.io\img\map for lab 2.png)
+![map 1](map for lab 2.png)
 
-![map 2](C:\Users\14159\ryandanaolab2.github.io\img\second map for lab 2.png)
+![map 2](second map for lab 2.png)
 
 Map 1 represents geospatial patterns of geo-tagged tweets around the US while map 2 portrays similar data but in a completely different country, the Philippines. Based on the patterns, it is clear that there is much more data made available that comes from the United States as compared to the results found from the entire Philippines. This goes to show how many more active users there are in the United States as compared to the Philippines as well. 
 
