@@ -7,16 +7,16 @@ In this lab, I will make use of the geo-tagged twitter data by collected them fr
 
 **Maps:**
 
-![map 1]("C:\Users\14159\ryandanaolab2.github.io\img\map for lab 2.png")
+![map 1](C:\Users\14159\ryandanaolab2.github.io\img\map for lab 2.png)
 
-![map 2]("C:\Users\14159\ryandanaolab2.github.io\img\second map for lab 2.png")
+![map 2](C:\Users\14159\ryandanaolab2.github.io\img\second map for lab 2.png)
 
 Map 1 represents geospatial patterns of geo-tagged tweets around the US while map 2 portrays similar data but in a completely different country, the Philippines. Based on the patterns, it is clear that there is much more data made available that comes from the United States as compared to the results found from the entire Philippines. This goes to show how many more active users there are in the United States as compared to the Philippines as well. 
 
 **Word Clouds:**
 
-![cloud 1]("C:\Users\14159\ryandanaolab2.github.io\img\Word Art 1.png")
+![cloud 1](C:\Users\14159\ryandanaolab2.github.io\img\Word Art 1.png)
 
-![cloud 2]("C:\Users\14159\ryandanaolab2.github.io\img\Word Art 1 for second run.png")
+![cloud 2](C:\Users\14159\ryandanaolab2.github.io\img\Word Art 1 for second run.png)
 
 The first world cloud represents different words used and found in the multiple tweets found when the United States was filtered as the location. Moreover, the second word cloud shows the results when the Philippines was selected and filtered. There are clear differences in the words in each cloud, as you can see some Tagalog words used in cloud 2 while cloud 1 shows a larger set of words. This makes sense as the results that came from the United States was significantly more than that of from the Philippines. 
